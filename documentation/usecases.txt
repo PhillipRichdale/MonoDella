@@ -1,0 +1,5 @@
+Startup Sequence:
+- config is loaded
+- last focused project is loaded
+- ui is built based on projects contents
+- ui is set to entityInFocus, if entityInFocus is not set, load and set view regularly

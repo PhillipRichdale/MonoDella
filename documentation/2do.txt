@@ -1,0 +1,11 @@
+2Do Hausaufgaben Abgabe:
+- Filesave Korrektheit verifizieren
+- 
+
+2Do UI:
+- per Code mainVbox auf Maximalgröße ausdehnen
+- per code Menü auf Fenstergröße ausdehnen
+- draw area für Toolbars
+	- Entities mit toolbars bauen oder mit etwas anderem
+	- saubere Formatierung mit Fonts
+- Statusbar hinzufügen

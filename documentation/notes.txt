@@ -1,0 +1,28 @@
+Projekt MonoDella - Ein CASE Tool in Mono/C#
+
+MonoDella ist CASE Tool zur Modellierung von Typenmodellen mit einem neuartigen
+UI Konzept. Üblicher Weise steht in Modellierungswerkzeugen, auch denen in 
+denen Code generiert wird, ein relativ freier aber auch störanfälliger und
+unhandlicher Malprozess im Vordergrund, welcher zur Handhabung eine vielzahl
+an präzisen manuellen Aktionen erfordert. In Della soll das Modell in einer
+Art interaktiven Liste erstellt werden.
+
+Die UI soll den Designprozess nicht mit überflüssigen und verwirrenden
+Relationspfade überfrachten, sondern immer zentrisch im Bezug auf die jeweilig
+betrachtete und bearbeitete Klasse darstellen. Vielfältige Such- und 
+Sortierfunktionen erleichtern den Design- und Navigationsprozess.
+
+MonoDella ist die Erstellung eines Prototypen in Mono/C#, Fernziel ist die 
+Implementierung einer UI für Handheld Touchscreen Tablets, sowie das Arbeiten 
+mit reellen Daten bzw. die nachträgliche Neuordnung von Produktionsdaten 
+gemäß erfolgten Änderungen.
+Della soll Modelle in Yaml.org oder einer eignen, yaml.org ähnlichen 
+Beschreibungssprache exportieren. Weitere Ex- und Importoptionen sollen später 
+hinzukommen, eventl. solche die entweder intern oder mit dem Aufruf eines
+externen Skripts den jeweiligen Export vornehmen.
+
+Milestone Hausaufgabe 2:
+Ein mit Testcode erstellter Aufbau an Entities mit Attributen in eine Datei 
+abspeichern.
+Eben jene Datei nach Löschung der internen Objekte wieder laden und gemäß 
+der Angaben in der Datei die Objekte wieder erzeugen.

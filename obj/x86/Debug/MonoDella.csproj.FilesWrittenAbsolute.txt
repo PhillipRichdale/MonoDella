@@ -1,0 +1,6 @@
+/home/phillip/Work/Mono/GuiProject/MonoDella/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/phillip/Work/Mono/GuiProject/MonoDella/obj/x86/Debug/MonoDella.gtk-gui.gui.stetic
+/home/phillip/Work/Mono/GuiProject/MonoDella/bin/Debug/MonoDella.exe.mdb
+/home/phillip/Work/Mono/GuiProject/MonoDella/bin/Debug/MonoDella.exe
+/home/phillip/Work/Mono/GuiProject/MonoDella/obj/x86/Debug/MonoDella.exe
+/home/phillip/Work/Mono/GuiProject/MonoDella/obj/x86/Debug/MonoDella.exe.mdb
